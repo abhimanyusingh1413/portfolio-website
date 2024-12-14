@@ -15,7 +15,7 @@ const Home = () => {
              {/* <p className="text-1.5xl text-gray-500 py-4 max-w-md"> I specialize in crafting 
               <span style="color:yellow">end-to-end</span> solutions that resonate with users, turning ideas into products they <span class="text-green-500">genuinely love ❤️</span>.</p> */}
                {/* Typed.js element */}
-          <div className="text-gray-500 py-4 max-w-md">
+          <div className="text-2xl text-gray-500 py-4 max-w-md">
             <ReactTyped
               strings={["I specialize in web development.", "I craft end-to-end solutions.", "Turning ideas into products. ❤️"]}
               typeSpeed={60} // Speed of typing
