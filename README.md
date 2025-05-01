@@ -24,3 +24,14 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/abhimanyusingh1413/portfolio-website.git
 
+2. **Navigate to the project directory:
+
+   ```bash
+   cd portfolio-website
+
+3.Install the required dependencies:
+
+   ```bash
+   npm install
+
+
